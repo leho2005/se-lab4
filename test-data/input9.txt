@@ -1,0 +1,2 @@
+GT4500,10,1.0,10,1.0 # both stores always fail
+TORPEDO,ALL # nothing fires successfully

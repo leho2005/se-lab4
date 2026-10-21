@@ -1,0 +1,2 @@
+GT4500,10,0.0,10,1.0 # secondary always fails
+TORPEDO,ALL # secondary fails but the primary succeeds, so overall success
